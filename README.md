@@ -6,6 +6,10 @@ The template is intentionally opinionated about structure, quality gates, and op
 
 ## Quick Start
 
+***When creating a repository from this template, use the default branch only.
+Do not select "Include all branches" unless intentionally copying template
+maintenance branches.***
+
 1. Create a new repository from this template.
 2. Rename placeholder package/module names in `pyproject.toml`, `src/`, `tests/`, and documentation.
 3. Delete folders that are not useful for the project.
