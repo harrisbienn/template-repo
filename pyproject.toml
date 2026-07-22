@@ -13,7 +13,7 @@ dependencies = []
 [project.optional-dependencies]
 dev = [
   "pre-commit>=4.6.1",
-  "pytest>=8.0",
+  "pytest>=9.1.1",
   "ruff>=0.15.22",
 ]
 
